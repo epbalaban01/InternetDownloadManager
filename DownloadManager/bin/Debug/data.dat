@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<Database xmlns="http://tempuri.org/Database.xsd">
+  <Files>
+    <Id>1</Id>
+    <Url>https://www.codeproject.com/KB/dotnet/473278/SampleTrialApp.zip</Url>
+    <FileName>SampleTrialApp.zip</FileName>
+    <FileSize>52,55 KB</FileSize>
+    <DateTime>2023-02-16T13:08:09.2209379+03:00</DateTime>
+  </Files>
+  <Files>
+    <Id>2</Id>
+    <Url>https://www.codeproject.com/KB/dotnet/473278/SampleTrialApp.zip</Url>
+    <FileName>SampleTrialApp.zip</FileName>
+    <FileSize>52,55 KB</FileSize>
+    <DateTime>2023-02-16T13:08:44.4245792+03:00</DateTime>
+  </Files>
+  <Files>
+    <Id>3</Id>
+    <Url>https://www.codeproject.com/KB/Articles/5356848/Program.zip</Url>
+    <FileName>Program.zip</FileName>
+    <FileSize>52,49 KB</FileSize>
+    <DateTime>2023-03-16T10:47:47.490742+03:00</DateTime>
+  </Files>
+</Database>

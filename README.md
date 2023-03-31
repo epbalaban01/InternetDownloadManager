@@ -1,4 +1,5 @@
 # İnternet Download Manager
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/InternetDownloadManager/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 Windows form uygulamasını ve Visual Studio'yu kullanarak İnternet Download Manager otomasyonu yaptım.
 
